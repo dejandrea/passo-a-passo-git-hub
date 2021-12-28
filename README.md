@@ -2,11 +2,17 @@
 
 Passo a passo para criar e carregar diretório no github e publicar o mesmo:
 
+
 1 - Logar em sua conta no github
+
 2 - Clicar em new (botão verde no canto superior esquerdo da tela)
+
 3 - Nomear o diretório
+
 4 - Marcar a opção ADD A README FILE
+
 5 - Clicar em COMMIT CHANGES (botão verde no final da página)
+
 
 NA PRÓXIMA TELA:
 6 - Clicar em Add file > upload files (ao lado do botão verde)
