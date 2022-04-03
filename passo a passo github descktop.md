@@ -18,17 +18,21 @@ link para download: https://desktop.github.com
    4. Repository:
    5. Branch:
    6. Help:
-3. Significados
-   1. push
-   2. pull
-   3. commit
-   4. fetch
-   5. repository
-   6. git ignore
-   7. publishing to origin
-   8. branch
-   9. issue
-   10. licence
-   11. readme
+  
+## Significados dos termos:
+
+1. push - enviar um repositório local para o repositório remoto
+2. pull - trazer um repositório remoto para os repositórios locais
+3. commit - salvar alterações no repositório/ criar um ponto de versionamento
+4. fetch - comparar a versão local com a versão remota e verificar se é necessário fazer um pull ou push para igualar os dois repositórios
+5. repository - repositório é o arquivo ou conjunto de arquivos que estão sendo versionados.
+6. git ignore - usado para ignorar alguns arquivos durante o push
+7. publishing to origin - publicar o repositório no remoto.
+8. branch ou ramificação é o ato de fazer alterações em um repositório sem afetar o repositório principal.
+9. issue - comentários ou dúvidas enviados em um repositório
+10. readme  - um arquivo md com informações sobre o repositório
+11. pull request - criar uma branch de um repositório para criar uma correção.
+
+
 
 
